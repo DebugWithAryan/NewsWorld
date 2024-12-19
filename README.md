@@ -13,13 +13,13 @@ NewsWorld is a feature-rich news application that fetches and displays the lates
 ## Screenshots  
 
 ### Home Screen  
-![Home Screen](screenshots/home_screen.png)  
+![Home Screen](app/src/main/java/com/collegegrad/newsworld/screenshots/home_screen.png)  
 
 ### Category Filter  
-![Category Filter](screenshots/category_filter.png)  
+![Category Filter](app/src/main/java/com/collegegrad/newsworld/screenshots/category_filter.png)  
 
 ### News Details  
-![News Details](screenshots/news_details.png)  
+![News Details](app/src/main/java/com/collegegrad/newsworld/screenshots/news_details.png)  
 
 ## Technologies Used  
 
@@ -64,5 +64,5 @@ NewsWorld is a feature-rich news application that fetches and displays the lates
 
 1. Clone the repository:  
    ```bash  
-   git clone 
+   git clone https://github.com/DebugWithAryan/NewsWorld.git
    cd NewsWorld  
