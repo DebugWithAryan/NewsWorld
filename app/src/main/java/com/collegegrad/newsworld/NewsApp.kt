@@ -31,7 +31,6 @@ import com.collegegrad.newsworld.dataclass.Article
 import java.text.SimpleDateFormat
 import java.util.*
 
-// Custom Colors
 val DarkBackground = Color(0xFF121212)
 val CardGradientStart = Color(0xFF2C2C2C)
 val CardGradientEnd = Color(0xFF1A1A1A)
@@ -72,7 +71,7 @@ fun NewsApp(viewModel: NewsViewModel = viewModel()) {
                     .fillMaxSize()
                     .padding(padding)
             ) {
-                // Filters section with higher z-index
+
                 AnimatedVisibility(
                     visible = showFilters,
                     modifier = Modifier
